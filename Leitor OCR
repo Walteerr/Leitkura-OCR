@@ -1,4 +1,4 @@
-
+# muito interessante este aplicativo do Python,através de um imagem de texto pode digitá-los para copiar e colar
 import cv2
 import pytesseract
 from pytesseract import Output
